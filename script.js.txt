@@ -1,2 +1,2 @@
-function authenticate(uname,password){
+function authenticate(email,password){
 }
